@@ -13,12 +13,12 @@
 .main.active {
     @apply md:w-full md:ml-0;
 }
-.footer {
-    position: fixed;
+footer {
+    margin: 0 auto;
+    position: absolute;
+    left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #ccc;
-    padding: 10px;
-    text-align: center;
+
   }
   
